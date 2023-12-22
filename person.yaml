@@ -1,0 +1,19 @@
+- name:bharathi
+  dob:"1994-24-06"
+  address:
+    address-line1: vb puram
+    address-line2: vb street
+    city: hyderabad
+  email: bharathichalla.8@gmail.com  
+
+- name:pradeep
+  dob:"1994-24-06"
+  address:
+  - address-line1: vb puram
+    address-line2: vb street
+    city: hyderabad1
+  - address-line1: vb puram
+    address-line2: vb street
+    city: hyderabad2 
+  email: bharathichalla.8@gmail.com  
+  

@@ -1,0 +1,35 @@
+{
+    "name": "bharathi",
+    "dob": "1994-24-06",
+    "address": {
+        "address-line1":"vb puram",
+        "address-line2":"vb centre",
+        "city":"hyderabad",
+
+
+    }
+
+
+}
+
+{
+    "name": "bharathi",
+    "dob": "1994-24-06",
+    "address": [
+        {
+            "address-line1":"vb puram",
+            "address-line2":"vb centre",
+            "city":"hyderabad",
+            "type":"home",
+        }
+        {
+            "address-line1":"vb puram",
+            "address-line2":"vb centre",
+            "city":"hyderabad",
+            "type":"office",
+        }
+
+    ]
+
+
+}
